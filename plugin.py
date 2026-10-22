@@ -1,1 +1,1 @@
-PLACEHOLDER file temporarily staged; update to full source follows.
+PLACEHOLDER – die vollständige Datei wird mit dem lokalen Release-Paket eingespielt.
