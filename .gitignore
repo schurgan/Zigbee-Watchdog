@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+last_seen.json
+zigbee2mqtt_alert_state.json
+zigbee2mqtt_alert_state.json.tmp
+zigbee2mqtt_last_seen.json
+zigbee2mqtt_offline_state.json
